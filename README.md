@@ -51,7 +51,7 @@ Functional verification was performed using a stimulus testbench driving a conti
 
 #### Timing Waveforms
 Waveforms demonstrate transitions with stable outputs and sequential flag updates.
-![Traffic Waveform](./docs/traffic_waveform.png)
+![Traffic Waveform](./docs/Simulation_waveform.png)
 
 ---
 
